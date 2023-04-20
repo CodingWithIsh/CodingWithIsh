@@ -1,5 +1,19 @@
 ### Hi there 👋
 
+🔭 I’m currently working : Well not me... ChatGPT
+
+🌱 I’m currently learning : n
+
+👯 I’m looking to collaborate 
+
+🤔 I’m looking for help
+
+💬 Ask me about my favorite 
+
+📫 How to reach me: Git pull
+
+😄 Pronouns: Commit/Pull/Push
+
 <!--
 **CodingWithIsh/CodingWithIsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
