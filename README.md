@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m currently working : Well not me... ChatGPT
+🔭 I’m currently working : or sleeping...
 
 🌱 I’m currently learning : n
 
